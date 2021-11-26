@@ -1,0 +1,35 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Change network card on server 007 123",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2021-11-26T12:04:15.196Z"
+    },
+    {
+      "id": 3,
+      "message": "Workstation 034 is up and running 123",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2021-11-26T11:16:13.831Z"
+    }
+  ],
+  "techs": [
+    {
+      "firstName": "Seo",
+      "lastName": "Dalmi",
+      "id": 4
+    },
+    {
+      "firstName": "Jung",
+      "lastName": "Sa Ha",
+      "id": 5
+    },
+    {
+      "firstName": "Lee",
+      "lastName": "Chul San",
+      "id": 6
+    }
+  ]
+}
